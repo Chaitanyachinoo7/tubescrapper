@@ -1,0 +1,10 @@
+{
+  "name": "YT Content Forge",
+  "description": "Extract audio, visuals, transcripts, and metadata from YouTube videos and playlists into structured Markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "YouTube Metadata Extraction",
+    "Playlist Processing",
+    "Markdown Generation"
+  ]
+}
